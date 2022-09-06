@@ -18,7 +18,6 @@ Syntax:
 window.property_name;
 
 
-
 DOCUMENT:
 
 It represents any HTML document or web page that is loaded in the browser.
@@ -50,7 +49,6 @@ window.propertyname;
 
 Example:
 window.innerHeight : It will return the height of the content area of the browser.
-
 
 
 All the tags, elements with attributes in HTML are part of the document.
